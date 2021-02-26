@@ -6,9 +6,8 @@
 App will display a question and will reveal the answer once clicked.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://recordit.co/ocnHer7L7t" width=200><br>
+<img src="https://s3.amazonaws.com/img0.recordit.co/ocnHer7L7t.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1614374784&Signature=BSudtjTX6wQNKuTD82AAAEhpbxM%3D" width=200><br>
 
 ## Required
 - [x] Create New Project in Android Studio
